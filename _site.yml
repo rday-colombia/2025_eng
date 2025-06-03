@@ -1,0 +1,53 @@
+name: "Rday"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    # - text: "Programa"
+    #   menu:
+    #   - text: General
+    #     icon: fa-calendar
+    #     href: programa.html
+    #   - text: Comunicaciones
+    #     icon: fa-calendar-check-o
+    #     href: comunicaciones.html
+    - text: "Speakers"
+      href: speakers01.html
+    - text: "Tutorials"
+      href: tutorials.html
+    - text: "Venue"
+      menu:
+      - text: Medellín
+        icon: fa-warehouse
+        href: medellin.html
+      - text: Location
+        icon: fa-map-marker
+        href: location.html
+    - text: "Dates"
+      href: dates.html
+    # - text: "FAQ"
+    #   href: respuestas.html
+#    - text: "Trabajos"
+#      href: trabajos.html
+#    - text: "Inscripciones"
+#      href: fin_inscripciones.html
+    - text: "Committees"
+      href: committee.html
+#    - text: "Divulgación"
+#      href: divulgacion.html
+    - text: "Code of Conduct"
+      href: conduct.html
+  right:
+  - icon: fa-twitter
+    href: https://twitter.com/rdaycolombia
+  - icon: fa-github
+    href: https://github.com/rday-colombia
+  - icon: fa-instagram
+    href: https://www.instagram.com/rdaycolombia/
+output:
+  html_document:
+    css: my_css.css
+    theme: flatly
+    includes:
+      after_body: footer.html
+      in_header: header.html

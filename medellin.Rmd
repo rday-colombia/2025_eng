@@ -1,0 +1,15 @@
+---
+title: "Medellín"
+---
+
+To learn about Medellín, it is recommended to visit: [https://medellin.travel](https://medellin.travel)
+
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
+
+The Medellín City Hall has a website with useful information for tourists. To visit the page, go to the link: [https://www.medellin.gov.co/es/turistas/](https://www.medellin.gov.co/es/turistas/).

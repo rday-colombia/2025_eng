@@ -1,0 +1,68 @@
+---
+title: R Day - Third National Meeting of R Users
+---
+
+<center>
+<img border="0" src="imagenes/Hexalogo.png" width="210" height="210">
+</center>
+
+<br/>
+
+To visit our webpage in Spanish click in the next link: [https://rday-colombia.github.io/2025/](https://rday-colombia.github.io/2025/).
+
+<img border="0" src="imagenes/eng_spa.jpeg" width="210" height="80">
+
+<br/>
+
+<img src="imagenes/medellin_esp.png" alt="Foto grupal">
+
+<font size="4">
+<p align="justify">R Day is an event that has had a positive impact on the scientific and business communities due to the versatility of the R programming language for statistics and data science.
+
+R Day has been held twice in Medellín ([2019](https://rday-colombia.github.io/2019/) and [2023](https://rday-colombia.github.io/2023/)), and this year it will take place for the third time in Medellín, in person on November 14, 2025. With R Day, we aim to bring together the community of R users in the city of Medellín and attract the attention of those who are not yet familiar with it.
+</p>
+</font>
+
+<center>
+<img src="imagenes/foto_grupal_2019_2023.png" style="max-width: 80%;" alt="Foto grupal">
+</center>
+
+<br/>
+<br/>
+
+<center>
+
+<h1> Organize </h1>
+
+<img src="imagenes/auxiliar.png" 
+     style="max-width: 80%;" />
+     
+<br>
+<br>
+     
+<h1> Sponsors </h1>
+
+<img src="imagenes/tu_logo_aqui_1.png" 
+     style="max-width: 50%;" />
+     
+<br>
+     
+<img src="imagenes/tu_logo_aqui_2.png" 
+     style="max-width: 40%;" />
+     
+<br>
+
+<img src="imagenes/tu_logo_aqui_3.png" 
+     style="max-width: 40%;" />
+     
+</center>
+
+<br>
+<br>
+
+<center>
+Site visit map.
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=383&t=n&d=Y68NzRsCOlDuM4dQFKq32_gK6t61-HhKguLrPcQb8bI"></script>
+</center>
+
+

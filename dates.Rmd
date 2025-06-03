@@ -1,0 +1,26 @@
+---
+title: "Important dates"
+---
+
+<br>
+
+## For registrations
+
+<br>
+
+| Activity                 | Date       |
+|--------------------------|------------|
+| Registration start       | 09/06/2025 |
+| Registration end         | 07/11/2025 |
+| R Day                    | 14/11/2025 |
+
+<br>
+
+## For paper submissions
+
+| Activity                            | Date        |
+|-------------------------------------|-------------|
+| Paper submission start              | 02/06/2025  |
+| Paper submission end                | 22/08/2025  |
+| Acceptance notification             | 05/09/2025  |
+| Full paper submission               | 17/10/2025  |
