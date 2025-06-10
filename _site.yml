@@ -27,8 +27,8 @@ navbar:
       href: dates.html
     # - text: "FAQ"
     #   href: respuestas.html
-#    - text: "Trabajos"
-#      href: trabajos.html
+    - text: "Call for papers"
+      href: call-for-papers.html
 #    - text: "Inscripciones"
 #      href: fin_inscripciones.html
     - text: "Committees"

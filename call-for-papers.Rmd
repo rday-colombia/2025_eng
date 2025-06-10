@@ -1,0 +1,25 @@
+---
+title: "Call for papers"
+---
+  
+All works that have used the R programming language in their methodology are welcome. The works may be presented through talks or posters.
+
+## Steps
+The submission of works will be done through the CMT platform. Below are the steps to submit a work:
+
+1. Visit [this link](https://cmt3.research.microsoft.com/User/Login){target="\_blank"} and create an account or membership.
+2. Visit [this link](https://cmt3.research.microsoft.com/RDay2025){target="\_blank"} to access the work submission system.
+3. Click the **Create new submission** button.
+4. Enter the title, a summary of <span style="color: red;">1000 characters</span>, and the authors.
+5. Choose whether it is a talk or a poster.
+6. Click the **Submit** button to submit your work.
+
+Once your work has been submitted, you must wait until the notification date (acceptance or rejection). The dates can be found [at this link](dates.html).
+
+<br/>
+<br/>
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
+
+

@@ -6,5 +6,8 @@ title: "Tutorials"
 |------|------------|----------|--------------------------|
 |1| Spatial Data Management | David Arango Londoño | Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana  
 |2| To be confirmed | Luis Gabriel González | Associate Professor, Department of Animal Production, UNAL Medellín  
-|3| Creating Packages in R | David E. Rodriguez | Lecturer, Finance Department, ITM  
+|3| Creating Packages in R | David E. Rodríguez | Lecturer, Finance Department, ITM  
 |4| Time Series Analysis through the packages `actfts` and `citmre` | Sergio Andrés Sierra | Lecturer, Finance Department, ITM
+|5|Data Science Without Borders: R + AWS to Analyze in the Cloud|Luis Eduardo Vahos Hernández|Professor, Department of Engineering, ITM
+|6|Sentiment Analysis in R | Nini Johana Marín Rodríguez | Professor, Faculty of Engineering, UdeM
+
