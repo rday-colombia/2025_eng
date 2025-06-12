@@ -9,5 +9,7 @@ title: "Tutorials"
 |3| Creating Packages in R | David E. Rodríguez | Lecturer, Finance Department, ITM  
 |4| Time Series Analysis through the packages `actfts` and `citmre` | Sergio Andrés Sierra | Lecturer, Finance Department, ITM
 |5|Data Science Without Borders: R + AWS to Analyze in the Cloud|Luis Eduardo Vahos Hernández|Professor, Faculty of Engineering, ITM
-|6|Sentiment Analysis in R | Nini Johana Marín Rodríguez | Professor, Faculty of Engineering, UdeM
+|6|Sentiment Analysis in R | Nini Johana Marín Rodríguez | Professor, Faculty of Engineering, UdeM|
+|7|Storytelling with Quarto|Olga Usuga Manco|Docente, Facultad de Ingeniería UdeA|
+|8|Data science in production|Freddy Hernández|Docente, Facultad de Ciencias, UNAL Medellín|
 
