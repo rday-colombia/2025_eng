@@ -1,5 +1,5 @@
 ---
-title: "Call for papers"
+title: "Contributions"
 ---
   
 All works that have used the R programming language in their methodology are welcome. The works may be presented through talks or posters.
