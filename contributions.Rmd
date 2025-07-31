@@ -16,6 +16,12 @@ The submission of works will be done through the CMT platform. Below are the ste
 
 Once your work has been submitted, you must wait until the notification date (acceptance or rejection). The dates can be found [at this link](dates.html).
 
+Below a video of how to submit a contribution.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otSQNhyvemw?si=FHSdgOnnvIRsGIdP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 <br/>
 <br/>
 
