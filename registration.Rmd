@@ -1,0 +1,15 @@
+---
+title: "Registration"
+---
+
+To register for the event, please follow these two steps:
+
+1. Visit [this link](https://share.udea.edu.co/?q=po:c48621).
+2. Click the **Register** button and follow all the steps. Below is an illustrative figure showing the location of the registration button.
+
+<center> <img src="imagenes/guia_inscripcion.png" alt="Edif_Ext_UdeA" style="max-width: 35%;"> 
+</center>
+
+The registration fee is $130,000 COP.
+
+If you have any questions, feel free to write to us at rdaycolombia@gmail.com.

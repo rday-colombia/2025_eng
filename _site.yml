@@ -25,14 +25,14 @@ navbar:
         href: location.html
     - text: "Dates"
       href: dates.html
+    - text: "Registration"
+      href: registration.html
     # - text: "FAQ"
     #   href: respuestas.html
     - text: "Contributions"
       href: contributions.html
     - text: "Call for papers"
       href: call_papers.html
-#    - text: "Inscripciones"
-#      href: fin_inscripciones.html
     - text: "Committees"
       href: committee.html
 #    - text: "Divulgación"
