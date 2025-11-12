@@ -29,6 +29,8 @@ navbar:
       href: registration.html
     # - text: "FAQ"
     #   href: respuestas.html
+    - text: "Proceedings"
+      href: proceedings.html
     - text: "Contributions"
       href: contributions.html
     - text: "Call for papers"
